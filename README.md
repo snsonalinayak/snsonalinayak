@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Sonali Nayak!✨</h1>
-<h3 align="center">A passionate Frontend & App developer, Data Analytics enthusiast from India.</h3>
+<h3 align="center">A passionate Frontend & App developer also a Data Analytics enthusiast from India.</h3>
 
 <img align="right" alt="coding_girl" height=250 width=350 src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 <br>
