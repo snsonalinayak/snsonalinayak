@@ -5,11 +5,11 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently into **Data Analytics, Frontend Development & App Development**
 
 - 👨‍💻 All of my projects are available at [https://sonaliportfolio.vercel.app/](https://sonaliportfolio.vercel.app/)
 
-- 💬 Ask me about **ReactJS, React Native**
+- 💬 Ask me about **ReactJS, React Native, SQL**
 
 - 📫 How to reach me **snsonalinayak@gmail.com**
 
